@@ -2,7 +2,7 @@ from sqlalchemy import create_engine
 import sqlite3
 import pandas as pd
 
-
+#______________________________________// Créer une base de données SQL \\___________________________________________
 
 # Créer une connexion à la base de données
 connection = sqlite3.connect("weather_base.db")
