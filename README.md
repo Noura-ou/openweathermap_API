@@ -42,6 +42,9 @@ Go to the project directory :
 - [Requests Library in Python - Beginner Crash Course](https://www.youtube.com/watch?v=Xi1F2ZMAZ7Q)
 - [TOUT SUR LES MÉTHODES HTTP ](https://www.youtube.com/watch?v=B-3TGySiSLo) 
 - [Site API](https://openweathermap.org/api/hourly-forecast#name5)
+- [Postman](https://www.postman.com/)
+- [FastAPI](https://fastapi.tiangolo.com/) 
+- [Python](https://docs.python.org/3/)
 
 
 ## Authors
