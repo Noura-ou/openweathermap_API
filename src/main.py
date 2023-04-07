@@ -23,7 +23,7 @@ for city in pays:
     api_url = url + "appid=" + API_KEY + "&q=" + city + "&units=metric" #API CALL 
     response = requests.get(api_url)   #Get method
     data = response.json()
-   # print(data)
+    print(data)
     lon = data["coord"]["lon"]
     lat = data["coord"]["lat"]
     temperature = data["main"]["temp"]
